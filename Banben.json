@@ -1,0 +1,7 @@
+{
+  "versionCode": 100,
+  "versionName": "v1.0.0",
+  "forceUpdate": false,
+  "updateLog": "【v1.0.0 更新内容】\n\n● 修复吃药任务输入框堆叠问题\n● 修复寿命丹只在第一排识别的 bug\n● 新增 16 格宠物药物栏专用扫描\n● 整理背包改为双击避免误判长按\n● 技能流程优化，兔子点击后改固定延迟\n● 停止按钮响应更灵敏，干净退出所有任务\n● 打包 APK 识别速度优化\n\n建议所有用户升级到最新版。",
+  "downloadUrl": "https://github.com/Louiswoel/update-config/releases/latest"
+}
